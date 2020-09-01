@@ -8,7 +8,7 @@ I create pictures, programs, music, and other things too, but since you're on my
 
 🧑‍🔬 I genuinely love to code so I did a ton of personal projects. Some are very stupid, remember when I [ported Flappy Bird to a CLI](https://github.com/ninofiliu/flappy-bird-cli)? Yeah well sometimes I do less stupid stuff, like [oa-client](https://github.com/ninofiliu/oa-client), downloaded hundreds of times per week and used by my company. I also often write POCs to explore new web architectures, like [this pattern](https://github.com/ninofiliu/contract-driven-api) that allows for a safer and simpler client-server communication.
 
-👪 I am actively part of the web community: I like helping others learning how to code, and that led me to having [over 6K reputation points](https://stackoverflow.com/users/8186898/nino-filiu) on Stack Overflow, I also taught several classes via Google Meet on how to create art with programming, and I wrote a few articles like [Sleeping In JavaScript](https://medium.com/@nino.filiu/sleeping-in-javascript-e00a1ebbde2e). I also frequently go to meetups, and went to DotJS 2019.
+👪 I am actively part of the web community: I like helping others learning how to code, and that led me to having [over 7K reputation points](https://stackoverflow.com/users/8186898/nino-filiu) on Stack Overflow, I also taught several classes via Google Meet on how to create art with programming, and I wrote a few articles like [Sleeping In JavaScript](https://medium.com/@nino.filiu/sleeping-in-javascript-e00a1ebbde2e). I also frequently go to meetups, and went to DotJS 2019. Oh yeah, and I star in a [this Honeypot documentary](https://www.youtube.com/watch?v=k8IiKepT0r8).
 
 🌍 I hold a wide array of beliefs
 
