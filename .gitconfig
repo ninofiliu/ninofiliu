@@ -1,0 +1,12 @@
+[push]
+	default = current
+[user]
+	name = ninofiliu
+	email = nino.filiu@gmail.com
+[core]
+	editor = vim
+[alias]
+	also = !git add . && git commit --amend --no-edit
+	co = !igc
+	ditch = !git reset --hard && git clean -f
+	force = push --force-with-lease
