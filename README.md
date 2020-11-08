@@ -18,7 +18,6 @@ I create pictures, programs, music, and other things too, but since you're on my
 - Developers are morally obligated to use their work for the greater good
 - Computer science degrees are virtually useless
 - A composition of small pieces of software is better than one big software
-- There future of the web is native
 - Webpack has been overused and should be replaced by Snowpack or Vite in most cases
 - I don't care about space vs tab
 
