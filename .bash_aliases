@@ -11,13 +11,19 @@ alias ll="ls -ahl"
 alias ll="ls -alh"
 alias x="xdg-open"
 
-function git-time-travel () {
+git-when () {
 	date=$1
-	commit=$(git log --since=$date -n=1 --format=format:%h)
+	git log --until=$date --max-count=1 --format=%h
+}
+	
+
+git-time-travel () {
+	date=$1
+	commit=$(git-when $date)
 	git reset --hard $commit
 }
 
-function glb () {
+glb () {
 	local branches=$(git branch | grep -v '^*' | colrm 1 2)
 	local file=$(mktemp)
 	rm $file
