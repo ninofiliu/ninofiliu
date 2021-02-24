@@ -25,6 +25,9 @@ I create pictures, programs, music, and other things too, but since you're on my
 
 Find me elsewhere:
 
-- [instagram @ssttaacckkyy](https://www.instagram.com/ssttaacckkyy/)
-- [twitter @ninofiliu](https://twitter.com/ninofiliu)
 - [ninofiliu.com](https://ninofiliu.com/)
+- [twitter](https://twitter.com/ninofiliu)
+- [linkedin](https://www.linkedin.com/in/nino-filiu/)
+- [dev.to](https://dev.to/ninofiliu)
+- [Stack Overflow](https://stackoverflow.com/users/8186898/nino-filiu)
+- [instagram](https://www.instagram.com/ssttaacckkyy/)
