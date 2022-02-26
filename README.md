@@ -1,5 +1,11 @@
 # Hi, I'm Nino Filiu
 
+> 🇺🇦🇺🇦🇺🇦
+> 
+> In the wake of the abject invasion of Ukraine by the dictatorial government of Russia, if you need someone to help building pro-Ukraine software, I will work for you for free. Contact me [on twitter](https://twitter.com/ninofiliu) of [by mail](mailto:nino.filiu@gmail.com).
+> 
+> 🇺🇦🇺🇦🇺🇦
+
 I create pictures, programs, music, and other things too, but since you're on my Github, let's focus on my work as a professional nerd!
 
 🎓 I've studied computer science with a focus on security at Telecom Paristech, Eurecom and Technische Universität Berlin. Being very curious, I also explored machine learning, quantum computing, and other fields.
