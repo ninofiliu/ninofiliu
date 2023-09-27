@@ -14,7 +14,7 @@ I create pictures, programs, music, and other things too, but since you're on my
 
 🧑‍🔬 I genuinely love to code so I did a ton of personal projects. Some are very stupid, remember when I [ported Flappy Bird to a CLI](https://github.com/ninofiliu/flappy-bird-cli)? Yeah well sometimes I do less stupid stuff, like [oa-client](https://github.com/ninofiliu/oa-client), downloaded hundreds of times per week and used by my company. I also often write POCs to explore new web architectures, like [this pattern](https://github.com/ninofiliu/contract-driven-api) that allows for a safer and simpler client-server communication. Right now I'm pushing the boundaries of video editing in the browser with [Supermosh](https://supermosh.github.io/)!
 
-👪 I am actively part of the web community: I like helping others learning how to code, and that led me to having [over 10K reputation points](https://stackoverflow.com/users/8186898/nino-filiu) on Stack Overflow, I also taught several classes via Google Meet on how to create art with programming, and I wrote a few articles like [Writing a blockchain in 60 readable lines of TypeScript](https://dev.to/ninofiliu/writing-a-blockchain-in-60-readable-lines-of-typescript-1009). I also frequently go to meetups and conferences like DotJS. Oh yeah, and I star in a [this Honeypot documentary](https://www.youtube.com/watch?v=k8IiKepT0r8).
+👪 I am actively part of the web community: I like helping others learning how to code, and that led me to having [over 15K reputation points](https://stackoverflow.com/users/8186898/nino-filiu) on Stack Overflow, I also taught several classes via Google Meet on how to create art with programming, and I wrote a few articles like [Writing a blockchain in 60 readable lines of TypeScript](https://dev.to/ninofiliu/writing-a-blockchain-in-60-readable-lines-of-typescript-1009). I also frequently go to meetups and conferences like DotJS. Oh yeah, and I star in a [this Honeypot documentary](https://www.youtube.com/watch?v=k8IiKepT0r8).
 
 🌍 I hold a wide array of beliefs
 
@@ -35,4 +35,5 @@ Find me elsewhere:
 - [Linkedin](https://www.linkedin.com/in/nino-filiu/)
 - [dev.to](https://dev.to/ninofiliu)
 - [Stack Overflow](https://stackoverflow.com/users/8186898/nino-filiu)
-- [Instagram](https://www.instagram.com/ssttaacckkyy/)
+- [Instagram](https://www.instagram.com/nino.filiu/)
+
