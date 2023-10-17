@@ -1,39 +1,46 @@
 # Hi, I'm Nino Filiu
 
-> 🇺🇦🇺🇦🇺🇦
-> 
-> In the wake of the abject invasion of Ukraine by the dictatorial government of Russia, if you need someone to help building pro-Ukraine software, I will work for you for free. Contact me [on twitter](https://twitter.com/ninofiliu) of [by mail](mailto:nino.filiu@gmail.com).
-> 
-> 🇺🇦🇺🇦🇺🇦
+I create digital experiences through the use of technology
 
-I create pictures, programs, music, and other things too, but since you're on my Github, let's focus on my work as a professional nerd!
+This can manifest in many forms but basically I know how to
 
-🎓 I've studied computer science with a focus on security at Telecom Paristech, Eurecom and Technische Universität Berlin. Being very curious, I also explored machine learning, quantum computing, and other fields.
+- write programs that process & generate videos, images, and sounds
+- engineer interactive digital installations
+- code full stack web applications
+- create video games
+- +1000s unrelated skills (music producing, tattooing, quantum physics knowledge, photography, etc)
 
-🚀 I co-created Sensafety and worked for Synomia, 360Learning, and Toucan Toco, where I currently work. I did frontend, mobile, backend, and serverless development. More informally, I also did a few people and brand's website: [clairefrances.fr](https://clairefrances.fr/), [significatif.org](https://www.significatif.org/) (not yet released, but it's gonna be beauuutiful), and of course [ninofiliu.com](https://ninofiliu.com/).
+& I'm open for work involving using these tech skills for creative purposes
 
-🧑‍🔬 I genuinely love to code so I did a ton of personal projects. Some are very stupid, remember when I [ported Flappy Bird to a CLI](https://github.com/ninofiliu/flappy-bird-cli)? Yeah well sometimes I do less stupid stuff, like [oa-client](https://github.com/ninofiliu/oa-client), downloaded hundreds of times per week and used by my company. I also often write POCs to explore new web architectures, like [this pattern](https://github.com/ninofiliu/contract-driven-api) that allows for a safer and simpler client-server communication. Right now I'm pushing the boundaries of video editing in the browser with [Supermosh](https://supermosh.github.io/)!
+## Links
 
-👪 I am actively part of the web community: I like helping others learning how to code, and that led me to having [over 15K reputation points](https://stackoverflow.com/users/8186898/nino-filiu) on Stack Overflow, I also taught several classes via Google Meet on how to create art with programming, and I wrote a few articles like [Writing a blockchain in 60 readable lines of TypeScript](https://dev.to/ninofiliu/writing-a-blockchain-in-60-readable-lines-of-typescript-1009). I also frequently go to meetups and conferences like DotJS. Oh yeah, and I star in a [this Honeypot documentary](https://www.youtube.com/watch?v=k8IiKepT0r8).
+- [ninofiliu.com](https://ninofiliu.com): full intro & portfolio
+- [Instagram](https://www.instagram.com/nino.filiu/): generative art, 3d renders, photography, random
+- [Twitter](https://twitter.com/ninofiliu): generative art, web dev research
+- [Github](https://github.com/ninofiliu): open source projects
+- [Soundcloud](https://soundcloud.com/stanleyfatmax): DJ sets and podcasts
+- [Itch](https://ninofiliu.itch.io/): video games
 
-🌍 I hold a wide array of beliefs
+## Works
 
-- Individuals and interactions > processes and tools
-- Accountability > authority
-- Substance, content > format, wording, style
-- Developers are morally obligated to use their work for the greater good
-- Computer science degrees are virtually useless
-- Webpack has been overused and should be replaced by Snowpack or Vite in most cases
-- I don't care about space vs tab
+- ["Cooking for William" (2023)](https://residence-evil.itch.io/cooking-for-william), a horror visual novel disguised as a cozy cooking game. w/ Melanie Courtinat & Pierre Moulin
+- ["First Contact" (2023)](https://www.instagram.com/p/CsRii4cLeBJ/), an interactive installation questioning our interpretation of exotic consciousness @ 36 Degrés x Galerie Charlot's Psych.e
+- ["But The Flesh Is Weak" (2022)](https://www.instagram.com/p/CoKGqvmryLl/?img_index=4), a serie of installations and performances involving plants, dance, fashion, electronics, and sounds. Conceived a system that extracts biofeelings from the electrical stimuli of plants, and coded an algorithm that translates this raw data into sculptural shapes and ambient sounds. w/ Samuel Fasse & Amosphère @ Le Confort Moderne, La Station Nice, Galerie La La Lande
+- ["Room XYFT" (2022)](https://www.instagram.com/p/CZhII8Vswjd/), an immersive installation involving audioreactive visuals and modular synths. w/ Aleksey Larionov aka Worm Machine @ Poush
+- ["As If My Phone Cares About Museums" (2021)](https://www.instagram.com/p/CPtJSRtCvJF/), a sculpture that gets scared when you get too close, thanks to an endless stream of visuals that evolves based on ultrasonic sensory input. w/ Paul Creange @ Poush
+- ["The Color Of The Wind" (2020)](https://poush.fr/en/programmation/the-color-of-the-wind-by-paul-creange/), an in situ LED sculpture which color changes based on the wind direction and speed. w/ Paul Creange @ Poush
 
-(these are the compact/extreme version of them, they're obviously more nuanced, youknowwhatimsaying)
+## Programs
 
-Find me elsewhere:
+- [GettorBot](https://github.com/ninofiliu/gettor-bot), a Signal chatbot to broadcast Tor bridges in countries where Tor relays are blocked/monitored. w/ Sonia Veselova. 1st place at the Demhack hackathon 4
+- [ESGrep](https://github.com/ninofiliu/esgrep), a software that parses a program source code and locate interesting patterns
+- [Supermosh](https://supermosh.github.io/), a software that pushes the boundaries of video editing in the browser by making datamosh in the browser possible
+- [OAClient](https://github.com/ninofiliu/oa-client), making calls to OpenAPI servers simpler and safer
 
-- [ninofiliu.com](https://ninofiliu.com/)
-- [Twitter](https://twitter.com/ninofiliu)
-- [Linkedin](https://www.linkedin.com/in/nino-filiu/)
-- [dev.to](https://dev.to/ninofiliu)
-- [Stack Overflow](https://stackoverflow.com/users/8186898/nino-filiu)
-- [Instagram](https://www.instagram.com/nino.filiu/)
+## Education
 
+- MPSI/MP\* @ Lycée Charlemagne. Courses on algebra, statistics, mechanics, quantum physics, electronics
+- MOOCs @ Stanford Lagunita. Courses on statistics and machine learning
+- Master in Computer Sciences @ Telecom Paris. Courses on computer architecture, computer architecture, optics
+- Student @ Eurecom. Courses on cybersecurity, computer networks, robotics
+- Erasmus @ Berlin Institute of Technology. Courses on machine learning, cybersecurity, quantum computing
